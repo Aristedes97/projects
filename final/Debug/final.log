@@ -1,0 +1,5 @@
+﻿  final.cpp
+C:\Users\ari00\source\repos\final\final.cpp(48,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ari00\source\repos\final\final.cpp(74,12): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\ari00\source\repos\final\final.cpp(164,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  final.vcxproj -> C:\Users\ari00\source\repos\final\Debug\final.exe
